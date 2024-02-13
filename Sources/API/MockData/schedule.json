@@ -1,0 +1,599 @@
+{
+    "data": {
+        "slots": [
+            {
+                "duration": 75,
+                "activity": {
+                    "title": "Registration & Breakfast",
+                    "subtitle": "Time to check in 🎟",
+                    "description": "The doors at The Playhouse will open at 8:30 AM and it's time to register, then once you have your badge you can check out the swag and T-Shirts. \r\nPlease bring along your QR code ticket for prompt entry and nothing else is required. \r\nThe SwiftLeeds team will greet you along with a fresh breakfast to start the first day.",
+                    "metadataURL": "",
+                    "id": "39E7B472-B792-4646-8841-E9BB5DC6DD30",
+                    "image": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/3B000D4F-FBE1-4732-8F6A-EC1EE2127AB6-3893D677-2CA2-4BD5-AE1D-F9F69CE85139-LP_BuildingProgress_Aug2019-7-David-Lindsay-Photographer-scaled.jpeg"
+                },
+                "id": "98EF4AC4-6C9A-4240-B9D5-DFA513267413",
+                "date": "2023-10-09T08:30:00Z",
+                "startTime": "08:30"
+            },
+            {
+                "duration": 10,
+                "activity": {
+                    "id": "B699838D-D570-4695-8D58-28FE850F59B2",
+                    "title": "Intro",
+                    "image": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/0F7181CE-60CA-43A1-90AC-DC12913583BD-Adam-Headshot.jpg",
+                    "metadataURL": "",
+                    "description": "Adam Rush will be hosting this years conference",
+                    "subtitle": ""
+                },
+                "id": "2A2AFAA4-0288-458A-8676-088936D5C0B7",
+                "date": "2023-10-09T09:45:00Z",
+                "startTime": "09:45"
+            },
+            {
+                "duration": 45,
+                "presentation": {
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "speakers": [
+                        {
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/7A6E0452-E3F3-4FE7-A645-88D8A6B3DFA6-richie-flores.jpg",
+                            "name": "Richie Flores",
+                            "biography": "Hello World! I am a principal software engineer and iOS aficionado with a passion for designing impactful user experiences. With over 7 years of experience building software products, I have seen firsthand the difference that good UX design can make in driving business results. I believe that the key to creating successful software products lies in understanding the needs and pain points of users, and designing intuitive interfaces that make it easy for them to achieve their goals. Good UX design can make a difference in the AppStore by driving business results such as increased user engagement, higher conversion rates, and improved brand perception.",
+                            "id": "CE7AF15B-D93E-4A06-941F-7A1221BF37D0",
+                            "organisation": "Northrop Grumman",
+                            "twitter": "richiexflores",
+                            "presentations": []
+                        }
+                    ],
+                    "synopsis": "In this talk, we’ll explore how good UX design can drive business results for iOS apps, and share best practices for integrating UX design into your app development process.\r\n\r\nAs iOS development continues to evolve and become more competitive, it's increasingly important for businesses to focus on creating great user experiences. In this talk, I will share real-world examples of how good UX design has driven business results for iOS apps, including increased user engagement, higher conversion rates, and improved brand perception.\r\n\r\nI will also provide practical tips and strategies for incorporating UX design into your iOS development process, from conducting user research to designing intuitive user interfaces. Attendees will leave with a deeper understanding of the value of UX in iOS development, as well as actionable insights they can use to improve their own app design and development practices.",
+                    "title": "Driving Success with UX: Unlocking Your iOS App's Full Potential",
+                    "id": "AAB3A73E-4DA0-4C19-9C68-2175F189E6A9",
+                    "videoURL": "https://www.youtube.com/watch?v=RZFeb5fD49s"
+                },
+                "id": "376BDB39-233E-4285-9120-75D330E6D15F",
+                "date": "2023-10-09T10:00:00Z",
+                "startTime": "10:00"
+            },
+            {
+                "duration": 45,
+                "presentation": {
+                    "title": "Mo Tips, Less Problems - A guide to using StoreKit2",
+                    "videoURL": "https://www.youtube.com/watch?v=CqgnijwQ7_0",
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "id": "3EF41CA1-0008-4CBA-B6A4-9AFF4CAC88E1",
+                    "speakers": [
+                        {
+                            "twitter": "tundsdev",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/BA74EE92-CDF9-4E37-AC03-55F90F024456-tunde_adegoyoye.jpg",
+                            "id": "5938594A-0032-4CFC-8184-75E8B2A3AAD1",
+                            "name": "Tunde Adegoroye",
+                            "organisation": "tundsdev & Bally’s Interactive",
+                            "presentations": [],
+                            "biography": "Tunde teaches SwiftUI and all things related to iOS development on YouTube @tundsdev. He is a Development Manager based in Manchester, UK. When he is not coding you can catch him travelling, watching anime, trying new foods & new experiences."
+                        }
+                    ],
+                    "synopsis": "Apple recently made some major updates to StoreKit, by releasing StoreKit2. This is a new API that showcases the great updates available to us in StoreKit & the language updates with Swift Concurrency.\r\n\r\nMy talk ultimate goal is to show you how you can easily integrate the StoreKit2 API into your iOS apps by building a tip jar that you can easily integrate into your apps with minimal code with code samples.\r\n\r\nNot only will I be talking about how to build a tip jar. But i’ll be going through a bit of a throwback & going over what in app purchases are, the different types so you understand which one meets your needs. Although my talk will focus on consumables.\r\n\r\nWe’ll also cover some of the new updates in Xcode that allow us to easily test in app purchases using the new StoreKitConfiguration file and other features for simulating purchases, handling failures and managing transactions.\r\n\r\nAfter all of this we’ll discuss appstoreconnect & things you wanna look out for when submitting your in app purchases too. So you’ll have a full understanding of going from zero to having your own tip jar."
+                },
+                "id": "AB04B667-F717-46CA-926E-E29572268D51",
+                "date": "2023-10-09T10:45:00Z",
+                "startTime": "10:45"
+            },
+            {
+                "duration": 45,
+                "presentation": {
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "id": "734919FF-5BE9-4F84-895C-52AEFD28173E",
+                    "speakers": [
+                        {
+                            "id": "84AD0BA0-212A-4FCC-9DAD-52301FE20314",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/alex-logan.jpg-6770C804-63F2-4D5C-8ED5-3DFA2BEE3399",
+                            "biography": "With a history of success on both the App Store and Play Store, Alex takes a passion for Apple and turns it into wonderful products. This love for all things Apple drives Alex to share knowledge on all the latest features available to Apple ecosystem engineers, striving to get the best out of everyone he works with. The release of Jetpack compose inspired him to learn Android development, and help drive forward the movement of mobile engineers that can ship on anything.\r\n\r\nWith a history of success on both the App Store and Play Store, Alex takes a passion for Apple and turns it into wonderful products. This love for all things Apple drives Alex to share knowledge on all the latest features available to Apple ecosystem engineers, striving to get the best out of everyone he works with. The release of Jetpack compose inspired him to learn Android development, and help drive forward the movement of mobile engineers that can ship on anything.\r\n\r\nAn advocate for gorgeous apps where the codebase is just as nice to look at as the UI, Alex adores working with people from all backgrounds to get the best for our apps.\r\n\r\nOutside of work, Alex spends his time building Coffee Book ( which was app of the day ) and Snippit. When not looking at a computer, Alex has a pretty strong running addiction, and likes to spend time working on designs and photography.m.",
+                            "name": "Alex Logan",
+                            "presentations": [],
+                            "organisation": "Unflow",
+                            "twitter": "SwiftyAlex"
+                        }
+                    ],
+                    "title": "Mess around and find out",
+                    "synopsis": "It's easier than ever to be a part time indie.\r\n\r\nWorking on your own apps and ideas can both lead to success personally and have a huge impact on your day job, and it's a shame to miss out. More importantly, its fun!\r\n\r\nIn this talk we’ll look at strategies for keeping up with the latest tech from Apple, and how you can make something quickly. It takes way less time than you think, and we'll look at how even with a full time dev job you can get your dream app on the store.\r\n\r\nSpecifically, we'll look at how you can take advantage of sample code, optimise your learning during WWDC, and how you can leverage the community to do a lot of the hard work for you."
+                },
+                "id": "456F0289-8699-410F-870F-78A1016C1FD7",
+                "date": "2023-10-09T11:30:00Z",
+                "startTime": "11:30"
+            },
+            {
+                "duration": 75,
+                "activity": {
+                    "image": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/264CE917-95A7-4128-B5BE-224E5BC89DC4-0151.swift-leeds-22-jma-photography copy.jpeg",
+                    "description": "We have partnered with the venue to provide us with handmade food. The venue has an incredible chef who will produce food to cater to everyone. They have access to a stone-baked pizza oven to provide fresh pizza slices and handmade buffet food with a vast selection. Don't forget your handmade brownie or Bakewell slice 😋",
+                    "title": "Lunch 🍕",
+                    "metadataURL": "",
+                    "subtitle": "It's time for some well deserved food",
+                    "id": "3C767559-3294-4BAA-A375-B61434E966E5"
+                },
+                "id": "002D3F83-5EFB-426D-9244-BDD7A26D491D",
+                "date": "2023-10-09T12:15:00Z",
+                "startTime": "12:15"
+            },
+            {
+                "duration": 45,
+                "presentation": {
+                    "title": "Live Scores with Live Activities",
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "speakers": [
+                        {
+                            "organisation": "Forza Football",
+                            "biography": "iOS developer who loves football and also loves writing iOS apps, now working at Forza Football building the best live score app on iOS.",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/CE776219-82AF-40A9-946C-908C0F342A07-fawkes-wei.jpg",
+                            "id": "0FDE1595-4861-43D7-9089-D5B51B7CA8EF",
+                            "presentations": [],
+                            "name": "Fawkes Wei",
+                            "twitter": "fawkeswei"
+                        }
+                    ],
+                    "id": "273625B7-D579-4A23-8BDF-1F9ABB84DA98",
+                    "videoURL": "https://www.youtube.com/watch?v=3VfdNmu_h4Q",
+                    "synopsis": "Forza Football is a football live score app, and we are always working hard to bring the best native live score experience possible. When we saw the announcement of Live Activities and Dynamic Island we were super excited since it looked like a perfect use case for us.\r\n\r\nIn this talk I will be sharing some basics about how live activity works, the limitations and possibilities, also the journey of us trying to build a live activity for football live scores. This may include how we designed the UI, the struggles working with limited documentation, back and forth talking with Apple trying to figure out the best update mechanism and the final result."
+                },
+                "id": "368872F0-F323-4E64-AB5E-8C992BE51D20",
+                "date": "2023-10-09T13:30:00Z",
+                "startTime": "13:30"
+            },
+            {
+                "duration": 45,
+                "presentation": {
+                    "title": "Under the hood: 3D transforms of iOS Views",
+                    "id": "883889FF-F65E-419C-8D6D-0A4C384D8D71",
+                    "videoURL": "https://www.youtube.com/watch?v=WWPBZwAp4-Y",
+                    "speakers": [
+                        {
+                            "presentations": [],
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/9A7F2856-5ED1-4330-8E84-E3D8AA30CD91-alex-lee.jpg",
+                            "twitter": "alex_lee97",
+                            "id": "1F1EF084-FF62-4BCA-B58C-A1AE7B164565",
+                            "name": "Alex Lee",
+                            "organisation": "Apple",
+                            "biography": "I've recently joined Apple to work on Siri things, but I spent the better part of the previous 4 years building iOS things at Flipp. I'm an alum of the University of Toronto, where I somehow managed to major in Computer Engineering. If I'm ever not at work, you'd most likely find me either drinking coffee, or thinking about drinking coffee. Caffeine aside, if I make it to SwiftLeeds, you'll most likely spot me trying to stay under-the-radar being in the city as a lifelong Man United fan!"
+                        }
+                    ],
+                    "synopsis": "This talk takes a look at the theory behind some of the basic view transformations that most of us take for granted - translations, scales, and rotations. Time permitting I would love to also shed light on why the m3,4 element of a transformation matrix helps us perform that 'perspective shift' on a UI view!",
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa"
+                },
+                "id": "49C6681C-437F-46F1-9F01-3DD0CC855739",
+                "date": "2023-10-09T14:15:00Z",
+                "startTime": "14:15"
+            },
+            {
+                "duration": 30,
+                "activity": {
+                    "description": "It's time to take a well-deserved break; there will be coffee, tea, water and more. You can take time to network, meet new people or relax and absorb all that information you have listened to.",
+                    "metadataURL": "",
+                    "image": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/CE5FD94F-C522-46EF-9A48-6D5E6F3354C4-0151.swift-leeds-22-jma-photography copy.jpeg",
+                    "title": "Refreshment Break ☕️",
+                    "id": "26049450-8751-4431-B0F4-614E4872E0C0",
+                    "subtitle": "You might like to drink ☕️ or 🫖"
+                },
+                "id": "BB0E964C-CAAC-44FD-9A7D-D907513EE5C0",
+                "date": "2023-10-09T15:00:00Z",
+                "startTime": "15:00"
+            },
+            {
+                "duration": 45,
+                "presentation": {
+                    "title": "SwiftUI Performance for Demanding Apps: Take 2",
+                    "id": "E189498F-5E81-4C68-BE36-182D7C638FBC",
+                    "speakers": [
+                        {
+                            "presentations": [],
+                            "twitter": "avielgr",
+                            "organisation": "Bēhance, Adobe",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/9D420C52-6813-4172-89BD-1BE030D14948-aviel_gross.jpg",
+                            "id": "301B6B51-5E14-4C89-8D0B-926ECC8B161B",
+                            "name": "Aviel Gross",
+                            "biography": "iOS engineer since 2013. Worked on the Facebook app 2017-2021. Today leading the Behance iOS app at Adobe."
+                        }
+                    ],
+                    "videoURL": "https://www.youtube.com/watch?v=WDRrsEAXvrE",
+                    "synopsis": "SwiftUI is powerful and flexible, but sometimes confusing. Things like modifiers order, inline views, `body` complexity, and POD views, can all seriously affect our performance. In this talk, we will learn the best ways to use SwiftUI for resource-heavy and dynamic UIs, while maintaining the golden 60fps.\r\n\r\nIn 2022, we (Adobe Bēhance) rebuilt our navigation infra, and our main Feed, in SwiftUI. We also insisted the app must run great on the worst phone we support - iPhone 6S Plus. Getting there was a journey.\r\nWe will start by comparing SwiftUI to UIKit: We know there’s no more View Controller, and views are mere “function of their state”, but what does it mean?\r\nNext, we will dive into specific scenarios and see how this new way of thinking is critical for achieving great performance. We will learn things like:\r\n- Avoiding redundant view diffing.\r\n- Controlling view update lifecycle.\r\n- How to “hide” complex state to improve performance.\r\n- Avoiding SwiftUI’s pitfalls, like nested publishers and environment memory leaks.\r\n- And more…",
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa"
+                },
+                "id": "917B4375-892B-4710-80D9-8FA161A158A6",
+                "date": "2023-10-09T15:30:00Z",
+                "startTime": "15:30"
+            },
+            {
+                "duration": 45,
+                "presentation": {
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "id": "34249351-AD64-4F4B-A2D2-076A9C29BC0F",
+                    "videoURL": "https://www.youtube.com/watch?v=4qG4Vdgmz1k",
+                    "title": "Building delightful command-line user experiences with Swift",
+                    "synopsis": "Over the past few years and especially thanks to the introduction of `async/await` and open-source libraries such as the `swift-argument-parser`, Swift has become a very powerful language for making command-line applications. Despite this, when it comes to building an application of this sort, we tend to resort to other languages such as bash or ruby.\r\n\r\nIn this talk, I will share my take on why it might be a great idea to build tools with Swift by making a complex command-line application called MusiCLI. MusiCLI allows users to quickly search for songs in Apple Music using `MusicKit` and also display information about a specific song in a SwiftUI view launched directly from the command-line!\r\n\r\nAlong the way, I will also share my favourite libraries and tips to build command-line tools in Swift like a pro!",
+                    "speakers": [
+                        {
+                            "presentations": [],
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/pol-piella-abadia.png-011AB9DB-F6DB-4D5C-A432-1184AA7E5C0A",
+                            "biography": "I am an iOS developer based in Manchester and currently working in the iPlayer team at The BBC. I have recently starting blogging at https://polpiella.dev and try to be as active as I can on Twitter, to give back as much as I can to the community.\r\n\r\nOther than coding, I love football and making music. I also love meeting new people and chatting about anything, so feel free to drop me a message!",
+                            "id": "AB129E61-2A54-44EE-8242-3753FB2B2E38",
+                            "twitter": "polpielladev",
+                            "organisation": "BBC",
+                            "name": "Pol Piella"
+                        }
+                    ]
+                },
+                "id": "C01160CE-C1C5-44D6-A1D3-77DBF3899132",
+                "date": "2023-10-09T16:15:00Z",
+                "startTime": "16:15"
+            },
+            {
+                "duration": 40,
+                "presentation": {
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "id": "FEC40255-6057-4D4C-92DC-50ABCAE6016F",
+                    "synopsis": "I always loved creating apps and making things, and I still do. But while I worked on optimising my code and learning modern development techniques, I was always curious about what happens when you press that Build button in Xcode. What's going on behind the curtain? How does that turn your code into *an app*.  I was fascinated by this, however, I never satisfied this curiosity until I jumped in the deep end, and started working as a mobile infrastructure engineer at Spotify.\r\n\r\nI want to demystify the build process, explain build systems, and share my knowledge to help people form a solid foundation to build their build systems knowledge on.",
+                    "videoURL": "",
+                    "title": "Build a Binary",
+                    "speakers": [
+                        {
+                            "id": "9F85C0CA-6787-4E5B-8233-833A6DC6619C",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/15C267CD-0529-4DF8-94A1-5B00CC07454D-anna-beltrami.jpg",
+                            "presentations": [],
+                            "organisation": "Spotify",
+                            "biography": "Software Engineer and ex clumsy scientist from Italy. I work at Spotify as a Mobile Infra Engineer. In my free time I co-host a podcast for junior engineers, and when I am not tinkering away with Swift and making untested apps on Playgrounds, I am a skier and a climber!!",
+                            "name": "Anna Beltrami",
+                            "twitter": "acbdev"
+                        }
+                    ]
+                },
+                "id": "09E6213B-BA1A-4BDC-8BE4-63590F20F54E",
+                "date": "2023-10-09T17:00:00Z",
+                "startTime": "17:00"
+            },
+            {
+                "duration": 190,
+                "activity": {
+                    "title": "After Party - Box",
+                    "subtitle": "Shuffle Board or PhotoBooth 📸",
+                    "metadataURL": "https://www.theboxbar.co.uk/bars/leeds-city-centre",
+                    "description": "We have booked the Box in Leeds, which is a Sports Bar with lots of fun games to be had. They have Darts, Shuffle, Photobooths plus lots more. You network with friends, have some drinks, play games and end the day with lots of laughter.\r\n\r\n15 Infirmary St, Leeds LS1 2JS",
+                    "id": "977D2D62-95DC-430B-877C-09A853CB2EF2",
+                    "image": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/418B194F-31CE-4924-86E9-655EB2E26085-97b3630e-e3cb-4ae6-ab84-1e7d6369c919 copy.jpg"
+                },
+                "id": "ADFA4847-CFF7-448E-9842-2D7B0F6B1F2E",
+                "date": "2023-10-09T17:40:00Z",
+                "startTime": "17:40"
+            },
+            {
+                "duration": 75,
+                "activity": {
+                    "id": "AB3BC637-92D5-4519-8246-4CBFF0AC3B57",
+                    "metadataURL": "",
+                    "description": "We have freshly prepared breakfast on arrival for Day 2",
+                    "image": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/F3B46A0C-0958-492E-AEFF-B1DC978FD444-0151.swift-leeds-22-jma-photography copy.jpeg",
+                    "title": "Breakfast 🍳",
+                    "subtitle": "Welcome to Day 2"
+                },
+                "id": "B70CAB1C-EEC6-497F-A09D-578FDED9E2E3",
+                "date": "2023-10-10T08:30:00Z",
+                "startTime": "08:30"
+            },
+            {
+                "duration": 10,
+                "activity": {
+                    "id": "0AE48763-4AC9-4468-BE49-6130E4E3C4E7",
+                    "metadataURL": "",
+                    "subtitle": "",
+                    "image": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/72816FE0-3FB5-48FE-AC76-17F80E6F1FCC-Adam-Headshot.jpg",
+                    "description": "Adam Rush will be offering a warm welcome to Day 2 with lots of great talks and activities for the day ahead.",
+                    "title": "Welcome to Day 2"
+                },
+                "id": "CCD220A1-E335-4094-9CAC-D2CC3C0D356A",
+                "date": "2023-10-10T09:45:00Z",
+                "startTime": "09:45"
+            },
+            {
+                "duration": 30,
+                "presentation": {
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "speakers": [
+                        {
+                            "organisation": "",
+                            "name": "Jessie Linden",
+                            "biography": "Jessie hails from Cleveland, OH and works as a drummer and percussionist in NYC. She has spent the last three years learning and falling in love with SwiftUI while pursuing her music career. Other favourite things include dogs, books and baseball!",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/jessie-linden.png-DA445720-607D-4276-AD39-21E23350D4E4",
+                            "presentations": [],
+                            "twitter": "jessielinden",
+                            "id": "5AB10FB0-656C-4C38-B4EE-AA07CB246074"
+                        }
+                    ],
+                    "synopsis": "2 facts about me: I am *obsessed* with enums, and I am a professional drummer and percussionist 🎵\r\n\r\nFor this talk, I'd like to marry these great loves by\r\n1. sharing my curiosity about enums with the SwiftLeeds community\r\n2. leveraging my musical skills as the backdrop for a sample app called PocketPerc: Beat Generator\r\n\r\nIn the app, a user would be able to toggle on any number of instrument samples to build a unique groove all their own, with samples largely recorded by me 🥁\r\n\r\nTo build up to the beat part (obviously the Grand Finale), I’d like to showcase enums in all their glory, aka possibly/hopefully using them way too much and inspiring some wild ideas about what they can do 🤗\r\nThe static data we would need is a perfect opportunity to eclipse structs and classes as the go-to data types, and instead rely heavily on enums to build views and stay categorized! To make it extra fun, I plan to limit myself as much as possible to only that data type, see what boundaries we bump up against, and discuss where and why we might want to pivot to another structure for production.\r\n\r\nHere’s a non-exhaustive list of the power moves I’ve been exploring:\r\n\r\nProtocol conformance\r\nCaseIterable, Equatable and Comparable conformances\r\nAssociated values (with and without default values)\r\nPattern matching\r\nScreen management\r\nStatic properties\r\nComputed properties\r\nInteraction with ObservableObjects\r\nCustom raw types",
+                    "id": "6D175269-C9EA-4AE9-B254-362D9CE7EFF8",
+                    "title": "ICYMI: Enums Are The Sh*t",
+                    "videoURL": "https://www.youtube.com/watch?v=J4s3mraKcag"
+                },
+                "id": "257B8DAE-EB1E-4AC6-90E0-0824C320E424",
+                "date": "2023-10-10T10:00:00Z",
+                "startTime": "10:00"
+            },
+            {
+                "duration": 45,
+                "presentation": {
+                    "id": "63DAE9AC-51E6-4AC0-96D9-F183F78DE69F",
+                    "synopsis": "The new navigation API introduced in iOS 16 is what was missing in SwiftUI. This talk will dive into the basics of SwiftUI navigation links and navigation stacks.\r\n\r\nWe will then explore how to implement deep-linking in a SwiftUI app, allowing users to open specific content or views directly from an internal and/or external source.\r\n\r\nFinally, we’ll see how to model our domain to make the most of other SwiftUI presentation components like sheets, popovers, alerts, confirmation dialogues and custom views.\r\n\r\nThroughout the talk, we will provide practical examples and code snippets to help attendees understand how to use SwiftUI navigation to build flexible and responsive user interfaces that support deep linking. By the end of the talk, you will have a solid understanding of how to supercharge your app's deep-linking capabilities using SwiftUI.",
+                    "title": "SwiftUI Navigation Demystified: Advanced deep-linking techniques for better user flows",
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "speakers": [
+                        {
+                            "biography": "Avid learner, passionate about  platforms. Writing mostly Swift code for iOS and macOS and occasionally doing Web Development.",
+                            "presentations": [],
+                            "organisation": "Makeba",
+                            "twitter": "bionik6",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/ibrahima-ciss.jpg-05E93782-8479-4C9C-8FB2-228C33301FD0",
+                            "id": "D07FD104-EF1A-42AD-AD80-07B5CD4360D8",
+                            "name": "Ibrahima Ciss"
+                        }
+                    ]
+                },
+                "id": "D1A23ED3-F536-4E8E-8192-AAE575ACD0E9",
+                "date": "2023-10-10T10:30:00Z",
+                "startTime": "10:30"
+            },
+            {
+                "duration": 15,
+                "presentation": {
+                    "title": "Achieving Loose Coupling with Pure Dependency Injection and the Composition Root Pattern",
+                    "videoURL": "https://www.youtube.com/watch?v=7zIKzOF6010",
+                    "speakers": [
+                        {
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/simon-b.-stovring.jpg-138C026F-521A-4E30-AEBD-397DA9DFD860",
+                            "name": "Simon B. Støvring",
+                            "presentations": [],
+                            "id": "3B355CE5-4B36-4352-AE1C-AB3D13CBDCC2",
+                            "twitter": "simonbs",
+                            "organisation": "Shape",
+                            "biography": "I'm a developer with a passion for iOS and developer tools and I have been building iOS since the iPhone 3GS was released in 2008.\r\n\r\nDuring the day, I work as a Principal iOS Engineer at Shape, an agency specialising in delivering native mobile apps and during nights and weekends, I work as an indie developer on building runestone.app, scriptable.app, jayson.app, and datajar.app."
+                        }
+                    ],
+                    "id": "3BC64077-CAE8-424F-8857-17B18EE774DD",
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "synopsis": "Ensure loose coupling in your codebase by adopting Pure Dependency Injection and injecting the dependencies using the Composition Root pattern. Learn how to create a Composition Root and use the loose coupling to create feature apps that let you iterate on features in isolated environments.\r\n\r\nThe talk explores the Composition Root pattern (originally presented by Mark Seemann in the book “Dependency Injection in .NET”) in the context of a mobile app. Through the talk we will explore how the pattern can be used to achieve loose coupling and how the Composition Root and Pure Dependency Injection can be used as an alternative to the Service Locator pattern. As a result, we will notice that using Pure DI results in honest interfaces that clearly states the dependencies they need.\r\n\r\nWhile the concepts presented are mostly generic and applicable to all platforms, we will use an iOS app written in Swift as an example. Through the talk we will discover how Pure DI and the Composition Root makes it easy to mock parts of our codebase and create isolated apps that run a single feature, making it easy and fast to iterate on features without navigating through a large application.\r\n\r\nAfter the talk the audience will be well-equipped to consider Pure DI and the Composition Root as an alternative to the popular Service Locator pattern, which is effectively what the @Environment and @EnvironmentObject property wrappers in SwiftUI uses."
+                },
+                "id": "395E852E-5301-42E3-9778-BE9D3F49B702",
+                "date": "2023-10-10T11:15:00Z",
+                "startTime": "11:15"
+            },
+            {
+                "duration": 45,
+                "presentation": {
+                    "speakers": [
+                        {
+                            "biography": "I am a passionate iOS engineer with more than seven years of experience in the industry. I have worked both in Iran and in Denmark, where I am currently based. AI and mobile are my two big passions, and when I get to mix them it is my dream come true. I love sharing knowledge and learning. I am an Engineer by day 👩🏻‍💻 and a movie geek 🎥 by night. And according to Spotify, I listened to 105 different genres last year 🎧",
+                            "twitter": "zamzampooya",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/D58CADD0-09EA-4C0A-B4F2-B647FA8DC375-zamzam-farzamipooya.jpg",
+                            "name": "Zamzam Farzamipooya",
+                            "presentations": [],
+                            "organisation": "Veo",
+                            "id": "3C758902-2D9D-4620-BCE9-A6513F9A99EA"
+                        }
+                    ],
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "id": "A74B29A5-FACD-47E8-995D-02880CD07544",
+                    "videoURL": "https://www.youtube.com/watch?v=woWZukdxdNY",
+                    "synopsis": "Cloud functions; what is this really? \r\n\r\nAs Google describes it; Cloud Functions for Firebase is a serverless framework that lets you automatically run backend code in response to events triggered by Firebase features and HTTPS requests. Your JavaScript or TypeScript code is stored in Google's cloud and runs in a managed environment. There's no need to manage and scale your servers. I know what you’re thinking it is too good to be true, well I’m telling you it is true. It is very easy to set up and it is very well integrated into other firebase services such as Firebase Authentication and Cloud storage. \r\n\r\nAre you interested already or should I go on?\r\n\r\nSo on top of it having zero maintenance and easy integration with the firebase platform, it keeps your logic private and secure. You don’t have to worry about having your code being reversed engineered, if you are doing something highly secure in the app you can easily move it to cloud functions and be sure that it is private and secure. Not to forget you can always change it without any app updated. \r\n\r\nWhat to expect\r\n\r\nThis talk will take you through how to set up a cloud function, test it and deploy it 🚀 You’ll also see how you can trigger cloud functions with Firestore triggers. \r\n\r\nYou'll need a Node.js environment to write functions, but don’t you worry it is nothing that an iOS or Android engineer can not handle. \r\n\r\nWhat you will take home\r\n\r\nBy the end of this talk, you’ll have an understanding of how cloud functions work and how you can take advantage of them for your specific use case, so that next time you come around to a situation where you wish there was a backend code somewhere taking care of this for you, you can be your savior and do it yourself.",
+                    "title": "Revolutionizing Serverless Computing: The Power of Cloud Functions"
+                },
+                "id": "3B813714-B87E-4158-84F8-3C3D61DB28F2",
+                "date": "2023-10-10T11:30:00Z",
+                "startTime": "11:30"
+            },
+            {
+                "duration": 75,
+                "activity": {
+                    "metadataURL": "",
+                    "id": "74A5F486-DF62-42EA-8B13-12DEDF03AD62",
+                    "title": "Lunch 🍕",
+                    "image": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/23018529-4D23-4E9E-AF85-0B8272C3C62C-IMG_1257 2-F5EFA13C-AEA4-4A04-ACFC-493D6BC9D613.JPG",
+                    "subtitle": "It's time for some well deserved food",
+                    "description": "We have partnered with the venue to provide us with handmade food. The venue has an incredible chef who will produce food to cater to everyone. They have access to a stone-baked pizza oven to provide fresh pizza slices and handmade buffet food with a vast selection. Don't forget your handmade brownie or Bakewell slice 😋"
+                },
+                "id": "BADB6B46-093F-43AE-BC77-BA523B629590",
+                "date": "2023-10-10T12:15:00Z",
+                "startTime": "12:15"
+            },
+            {
+                "duration": 45,
+                "presentation": {
+                    "synopsis": "In this talk, we'll delve into the world of XcodeKit and Editor Extensions, showing you how to streamline your workflow, improve code quality, and boost your productivity as a developer.\r\n\r\nWe’ll explore real-world examples and practical tips for creating your own extensions, integrating them into your workflow, and distributing your new tools with the larger iOS & macOS community.\r\n\r\nThis beginner-friendly code-along session will start by exploring the XcodeKit API and testing environment, then we’ll move on to covering best practices and seeing some real-world examples to help spark your creativity.\r\n\r\nWe’ll wrap up with a brief discussion on how to release your new extensions on the App Store or distribute them as open-source projects.\r\n\r\nWhether you’re an experienced developer or just starting out, this talk is essential for anyone using Xcode who wants to personalize their workflow.\r\n\r\nIt’s also perfect for those interested in contributing to open-source or exploring new opportunities as an indie developer.\r\n\r\nSo, grab your laptop and join me for a deep dive into the world of Editor Extensions and XcodeKit!",
+                    "id": "DC4A8FE8-E6DE-4864-B7E8-613159DA52E7",
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "title": "Working with XcodeKit",
+                    "speakers": [
+                        {
+                            "biography": "I've spent the last 8 years working with Porsche, Turo, Scoop Technologies, and many other startups. Alongside my professional work, I've also created several open-source iOS Development tools such as EditKit, DeepLinkr, Localizer, and PSDtoXcode.\r\n\r\nI've authored two books on iOS Development and am committed to sharing my learnings with the community through articles on my blog, YouTube channel, and Twitter.\r\n\r\nI also run Indie Watch - a weekly newsletter focused on exploring the world of indie iOS & macOS developers. Every issue includes an interview with a successful indie developer where we discuss the strategies and workflows they use to create successful and profitable apps.",
+                            "organisation": "Turo",
+                            "twitter": "aryamansharda",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/aryaman-sharda.jpg-3838FC8A-2F42-466B-ABEB-EDDE7ABF5DA1",
+                            "name": "Aryaman Sharda",
+                            "id": "E0F2134F-C882-4A19-B070-2CEEC636276C",
+                            "presentations": []
+                        }
+                    ],
+                    "videoURL": "https://www.youtube.com/watch?v=hsX-b7lobF0"
+                },
+                "id": "86BAC616-DA36-4ED7-9D35-57829359DB36",
+                "date": "2023-10-10T13:30:00Z",
+                "startTime": "13:30"
+            },
+            {
+                "duration": 45,
+                "activity": {
+                    "title": "Swiftest Fingers First",
+                    "metadataURL": "",
+                    "image": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/EA6F4C6A-C519-4AC6-8B26-3E888A839883-Screenshot 2023-09-29 at 12.33.30 pm.png",
+                    "subtitle": "Have you been paying attention?",
+                    "id": "7E32224E-7E7E-4DBF-AC5D-073169B90427",
+                    "description": "With fantastic prizes on the line, have you got what it takes to win this year's quiz?\r\n\r\nAll questions will be about the talks from the previous two days, and the SwiftLeeds conference as a whole. Have you been paying attention? Will you be the winner of Swiftest Fingers First?\r\n\r\nAll attendees will be able to participate through their mobile device. Instructions will be provided on the day."
+                },
+                "id": "25965E42-A877-4E89-816E-E95136515932",
+                "date": "2023-10-10T14:15:00Z",
+                "startTime": "14:15"
+            },
+            {
+                "duration": 30,
+                "activity": {
+                    "description": "It's time to take a well-deserved break; there will be coffee, tea, water and more. You can take time to network, meet new people or relax and absorb all that information you have listened to.",
+                    "image": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/2D95D55D-660D-4257-8123-016747879F8C-0151.swift-leeds-22-jma-photography copy.jpeg",
+                    "id": "2E94170A-14DB-4E1B-88F1-855978BCBD30",
+                    "title": "Refreshment Break ☕️",
+                    "metadataURL": "",
+                    "subtitle": "You might like to drink ☕️ or 🫖"
+                },
+                "id": "08386DC6-ECE8-4BD7-8811-2E2C4808F3DA",
+                "date": "2023-10-10T15:00:00Z",
+                "startTime": "15:00"
+            },
+            {
+                "duration": 30,
+                "presentation": {
+                    "synopsis": "As your app grows larger and more complex, so does its surface area for bugs and its need for robust testing. But this growth doesn’t all look the same, and the strategies for managing growing app complexity don’t need to look all the same either.\r\n\r\nIn this talk I’ll discuss the difference between what I think of as “additive” and “multiplicative” feature growth in my app Nihongo, how I tailor my quality and testing strategies based on those differences, and the tools I use to implement those strategies as part of my continuous integration system. I’ll also discuss how the quality strategies I’ve used on software teams do and don’t translate to my work as an indie.",
+                    "videoURL": "https://www.youtube.com/watch?v=xsXpz9detWQ",
+                    "id": "551C50A8-74B6-4843-89EF-CB8F920CAF44",
+                    "speakers": [
+                        {
+                            "presentations": [],
+                            "biography": "I’m an independent app developer based out of Nara, Japan, with a passion for good design and language learning. I’m best known as the creator of Nihongo: a modern Japanese dictionary, and more recently a companion app for learning Japanese called Nihongo Lessons.\r\n\r\nI started creating Nihongo because it was the tool I wish existed for learning Japanese. I built it as a side-project while I was at a Japanese language school in Osaka, and used it as a dictionary and flashcard tool for my own studies. I released it on the App Store in 2014, where it slowly grew in popularity, and in 2018 I left my full-time job to pursue it full-time as an indie developer.\r\n\r\nBefore becoming an indie app developer, I studied Computer Science at UC Berkeley and then spent about 10 years working as a software engineer primarily in the security space, where I was part of two successful acquisitions. I worked as a platform engineer building distributed systems for BigFix, which was acquired by IBM. I then joined a small startup Subspace, building a Chromium-based web browser with a built in VPN and encrypted file I/O, for securing access to sensitive company resources. We were acquired by Box, where I was a staff engineer working across domains on security, mobile, desktop, and web.\r\n\r\nI draw on this broad engineering background in my current life as an indie app developer, and I believe it has given me unique perspective on many of the challenges of being an indie!",
+                            "twitter": "chrisvasselli",
+                            "name": "Chris Vasselli",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/chris-vasselli.jpg-60AD471C-7ED5-4B6C-8AEF-864D9B137D15",
+                            "id": "AEA9308C-8D3B-4EAB-A1D0-ABEA2C9D64D6",
+                            "organisation": "Indie Developer"
+                        }
+                    ],
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "title": "Managing App Complexity: Strategies for maintaining a bug-free app"
+                },
+                "id": "60991616-F77A-4ECD-92FE-48C862751DD8",
+                "date": "2023-10-10T15:30:00Z",
+                "startTime": "15:30"
+            },
+            {
+                "duration": 15,
+                "presentation": {
+                    "id": "D53C9BF5-A95F-463E-84EF-8A98F9434C07",
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "speakers": [
+                        {
+                            "biography": "Robin is an iOS and Android engineer passionate about creating accessible mobile applications. She currently works as an iOS engineer in Bordeaux, France.",
+                            "name": "Robin Kanatzar",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/pro-pic.png-37793C56-5705-47CF-9A21-1B7AC14329BD",
+                            "id": "B27A9761-6CF2-45C2-BDF4-E23D5EA0B419",
+                            "presentations": [],
+                            "organisation": "Betclic Group",
+                            "twitter": "RobinKanatzar"
+                        }
+                    ],
+                    "title": "Building Accessible Maps and Navigation",
+                    "videoURL": "https://www.youtube.com/watch?v=kcSGCgzgmCQ",
+                    "synopsis": "Are you completely lost on how to make the navigation part of your application accessible? Maps and navigation can be made accessible just like any other UI component in your application. In this talk, you’ll learn the best practices for how to make your maps more accessible and what pitfalls to avoid. We’ll look at existing mapping applications as examples and discuss the limits of accessibility with MapKit and Google’s Maps SDK."
+                },
+                "id": "1243DE52-CC2A-4031-B7C4-CC08A122165D",
+                "date": "2023-10-10T16:00:00Z",
+                "startTime": "16:00"
+            },
+            {
+                "duration": 30,
+                "presentation": {
+                    "title": "iOS at Staff+",
+                    "synopsis": "The industry has a pretty clear idea of what a Senior Engineer is. But after that, expectations start to fall apart. Many companies don’t have Staff+ roles at all–if you want to advance, you’re headed to management. Some companies hire at those levels to lure talent but don’t promote to them internally, because they don’t have a clear track to get there. And even at the companies that do have a well-defined path from Senior to Staff and beyond, it’s usually built for generalist or web engineers, rather than iOS. Because mobile engineering is such an odd duck–kind of a deep niche, kind of a full stack–it’s hard to fit it into the standard categories that tend to define Staff+ engineering.\r\n\r\nI’ve been a Staff or Principal-level mobile engineer for the past seven years. I’ve seen the ways that engineering leaders think about these categories, and how mobile engineers can wedge themselves into them. And at my current job I’ve had the opportunity to define, to a certain extent, what the role means, and how it differs for mobile. We’ll talk about the expectations for Staff+ engineers in general; how to adapt those expectations to the mobile world; and how to build your own role to where you want to be.",
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "id": "C2C1C268-5172-4B31-93DD-D09A99804C13",
+                    "videoURL": "https://www.youtube.com/watch?v=rI5robwqIeE",
+                    "speakers": [
+                        {
+                            "name": "Joel Kin",
+                            "biography": "Joel had the good fortune to work at Apple when the iPhone was being developed. His exposure was writing sample apps against the iPhone SDK, making him among the first people in the world to `#import UIKit/UIKit.h`. That launched him into the world of iOS development for good, where he has since worked on a wide variety of interesting products, launched a startup, worked at several others, and still somehow not gotten tired of San Francisco.\r\n\r\nJoel is currently an iOS developer at [Handshake](https://www.joinhandshake.com), a platform to help students find meaningful careers.",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/joel-kin.jpg-F73C44FB-F10F-4D8C-86DF-E1DB36E8B3B2",
+                            "id": "C8AF5197-2594-46A4-A46D-008A0967C1E3",
+                            "twitter": "myunderpants",
+                            "organisation": "Handshake",
+                            "presentations": []
+                        }
+                    ]
+                },
+                "id": "589E3574-75F4-49FD-8958-5B442C28C469",
+                "date": "2023-10-10T16:15:00Z",
+                "startTime": "16:15"
+            },
+            {
+                "duration": 45,
+                "presentation": {
+                    "title": "Closing Keynote",
+                    "synopsis": "Krzysztof Zabłocki will be closing us out with some exciting and motivational experience from his decades of building apps and tools to help thousands of engineers.",
+                    "speakers": [
+                        {
+                            "presentations": [],
+                            "twitter": "merowing_",
+                            "biography": "Consultant and author of widely-recognized community tools, such as Sourcery, Objective-C Playgrounds, Inject, and LifetimeTracker used by 80 000 teams including those at Apple, Disney, Airbnb.",
+                            "profileImage": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/85E92D48-AA37-4912-85FC-CFB4228B3F94-IMG_0373.JPG",
+                            "name": "Krzysztof Zabłocki",
+                            "id": "CC062FE2-FE80-4B56-88A3-7E58B0F5E31A",
+                            "organisation": "Independent"
+                        }
+                    ],
+                    "videoURL": "",
+                    "slidoURL": "https://app.sli.do/event/jHmthXSatH6w4BUEyjpDPa",
+                    "id": "2694AD8C-9561-4182-8D24-DDC42080EC75"
+                },
+                "id": "89817BF7-392C-447E-BDB2-E7EEE2FD81B8",
+                "date": "2023-10-10T16:45:00Z",
+                "startTime": "16:45"
+            },
+            {
+                "duration": 200,
+                "activity": {
+                    "description": "This after-party will be hosted inside the venue at the networking area, make your final friendships and discuss about the amazing days we have had at the conference.",
+                    "metadataURL": "",
+                    "subtitle": "Closing of the conference",
+                    "id": "19614048-D18A-4311-8CB6-7249C454A309",
+                    "title": "After Party 🥂",
+                    "image": "https://swiftleeds-speakers.s3.eu-west-2.amazonaws.com/3F9A3872-0922-432C-AEEA-4E27D8876CF5-0244.swift-leeds-22-jma-photography copy.jpeg"
+                },
+                "id": "052B077C-31F9-4929-8AF1-38E5F219B687",
+                "date": "2023-10-10T17:30:00Z",
+                "startTime": "17:30"
+            }
+        ],
+        "events": [
+            {
+                "name": "SwiftLeeds 2024",
+                "id": "63B6A444-7416-4989-9903-B9DBB4D78488",
+                "date": "08-10-2024",
+                "location": "The Playhouse, Leeds"
+            },
+            {
+                "name": "SwiftLeeds 2023",
+                "id": "2D951908-1679-4D02-944B-54579698888B",
+                "date": "09-10-2023",
+                "location": "The Playhouse, Leeds"
+            },
+            {
+                "name": "SwiftLeeds 2022",
+                "id": "CD72144D-8786-4188-ADA5-794393225AB2",
+                "date": "20-10-2022",
+                "location": "The Playhouse, Leeds"
+            },
+            {
+                "name": "SwiftLeeds 2021",
+                "id": "9C8A70F3-2EC5-4B8B-B483-0349448A1E0A",
+                "date": "06-10-2021",
+                "location": "The Carriageworks Theatre"
+            }
+        ],
+        "event": {
+            "name": "SwiftLeeds 2023",
+            "id": "2D951908-1679-4D02-944B-54579698888B",
+            "date": "09-10-2023",
+            "location": "The Playhouse, Leeds"
+        }
+    }
+}
+
